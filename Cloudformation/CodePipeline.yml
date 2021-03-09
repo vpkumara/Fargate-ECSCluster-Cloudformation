@@ -7,7 +7,7 @@ Parameters:
     Default: dev
   GithubUserName:
     Type: String
-    Default: <USERNAME>
+    Default: vpkumara
   GithubRepo:
     Type: String
     Default: Fargate-ECSCluster-Cloudformation
@@ -16,7 +16,7 @@ Parameters:
     Default: <BRANCH>
   GithubOAuthToken:
     Type: String
-    Default: <GITHUB ACCESS TOKEN>
+    Default: fc468bdbfe86e76234582f2485d5e0d415b38881
   ContainerPort:
     Type: Number
     Default: 8080
